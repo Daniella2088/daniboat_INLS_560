@@ -1,0 +1,8 @@
+#\n  \t  \'  \" \\
+#concatenation: "string1" + string2"
+#format number: '12,.3f' 1,234.568
+
+string1 = "To be or"
+string2 = "to not be. "
+
+print (string1 + ' ' + string2)
