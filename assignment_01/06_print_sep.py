@@ -1,7 +1,10 @@
-age = 12
-midterm = 78
-final = 91
+#http://anh.cs.luc.edu/170/mynotes/sepend.html
+print (1, 2, 3)
+print(1, 2, 3, sep=' and ')
+print(4, 5, 6, sep = '')
+print(7, 8, sep='***')
 
-print("Hello, World!") 
-print("My age is ", age) 
-print("Average: ", (midterm + final)/2)
+#output
+#1 and 2 and 3
+#456
+#7***8
