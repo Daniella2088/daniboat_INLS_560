@@ -1,8 +1,8 @@
-cars = ['audi', 'bmw', 'subaru', 'toyota']
+foods = ['rice', 'chicken', 'broccoli', 'beef']
 
-for car in cars:
-    if car == 'bmw':
-        print(car.upper())
+for food in food:
+    if food == 'rice':
+        print(food.title())
     else:
-        print(car.title())
+        print(food.captialize())
     
