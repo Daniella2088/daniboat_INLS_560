@@ -1,19 +1,18 @@
-#Variables 
-a = 2
-b = 3
-c = 4 
+#https://www.reddit.com/r/Python/comments/7c04fs/using_commas_instead_of_plus/?rdt=55908
 
-#Default order of operations 
-result1 = a + b * c
-print (" a + b * c=", result1)
+print("Hello, World!") 
+age = 13
+print("My age is ", age) 
+midterm = 98
+final = 100
+#float occurs
+print("Average: ", (midterm + final)/2))
 
-#With parantheses: addition first 
-result2 = (a + b) * c
-print ("(a + b) * c=", result2)
+#Multi-line Comment
 
-#More variations 
-result3 = a * (b + c)
-print (" a * (b + c) =", result3)
-
-result4 = (a + b + c)
-print ("(a + b + c) =", result4)
+'''
+Output
+Hello, World!
+My age is 13 
+Average: 99.0
+'''
