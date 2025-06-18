@@ -1,3 +1,4 @@
+#https://lawrencejones-lblakej.cloudapps.unc.edu/inls-560/code/02/02_18_%20future_value
 future_value = 600
 rate = 2.0
 years = 10
