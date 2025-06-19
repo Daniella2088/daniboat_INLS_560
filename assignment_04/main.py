@@ -1,6 +1,6 @@
 foods = ['rice', 'chicken', 'broccoli', 'beef']
 
-for food in food:
+for food in foods:
     if food == 'rice':
         print(food.title())
     else:
