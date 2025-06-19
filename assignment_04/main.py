@@ -4,5 +4,5 @@ for food in foods:
     if food == 'rice':
         print(food.title())
     else:
-        print(food.captialize())
+        print(food.capitalize())
     
